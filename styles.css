@@ -45,3 +45,9 @@ p {
     width: 100px;
     height: 100px;
 }
+
+.hero {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
