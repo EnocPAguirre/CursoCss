@@ -62,3 +62,8 @@ p {
     margin-left: auto;
 
 }
+
+.listado-categorias {
+    display: grid;
+
+}
