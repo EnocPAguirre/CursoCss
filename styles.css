@@ -63,7 +63,11 @@ p {
 
 }
 
+
+
 .listado-categorias {
     display: grid;
+    grid-template-columns: repeat(4, 100px);
+    grid-template-rows: 100px, 100px;
 
 }
